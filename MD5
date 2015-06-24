@@ -1,4 +1,4 @@
-9f846eb0b487185e798d28e18d11c445 *DESCRIPTION
+b56c483a135c0f0527f55958931de75a *DESCRIPTION
 9eb79ecaf6c8d3272c9e21607bb11c01 *NAMESPACE
 beea946ac08878a365de9fe6004a155f *R/zzz.R
 c181a74fcc92ed2070ad1aced4264030 *configure
@@ -10,5 +10,6 @@ d41ffd493457d66de8712d58ce80352f *inst/java/JWNL
 db2cd70395b9e2e4c6b9957015a10607 *inst/models/en-pos-maxent.bin
 3822c5f82cb4ba139284631d2f6b7fde *inst/models/en-sent.bin
 f38628ea25fc246e99fc5e93f9bb5497 *inst/models/en-token.bin
+33ce3cf46e82872086f4e6a81d6d59e8 *java/README
 b2f00fd4d3162f7345ca6a14db8bd1df *tools/getsp.class
 d98d48a1d5c1bbec93a7a584509199e6 *tools/getsp.java
